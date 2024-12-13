@@ -6,3 +6,5 @@ git config --global user.email 'Ваш емейл'
 
 change move 1234 go
 
+rnb
+b b b b 
