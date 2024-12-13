@@ -4,4 +4,5 @@ print('Hello World')
 git config --global user.name 'Ваше имя'
 git config --global user.email 'Ваш емейл'
 
+ЕЩЕ
 ''''''
