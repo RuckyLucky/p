@@ -6,3 +6,5 @@ git config --global user.email 'Ваш емейл'
 
 ЕЩЕ
 ''''''
+gucci
+gang
