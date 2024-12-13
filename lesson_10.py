@@ -4,5 +4,5 @@ print('Hello World')
 git config --global user.name 'Ваше имя'
 git config --global user.email 'Ваш емейл'
 
-chang +
-go
+change 123
+5678
